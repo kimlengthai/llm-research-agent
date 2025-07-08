@@ -70,6 +70,8 @@ Run the agent with your research question:
 ```bash
 python3 -m src.agent.agent "Who won the 2022 FIFA World Cup?"
 
+```
+
 ## 💡 Testing
 
 pip install pytest
