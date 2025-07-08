@@ -5,3 +5,4 @@ tqdm
 httpx
 pytest
 python-dotenv
+serpapi
