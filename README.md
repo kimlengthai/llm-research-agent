@@ -18,7 +18,7 @@ A command-line research assistant agent that accepts a natural language question
 ---
 
 ## 🚀 Project Structure
-
+```bash
 llm-research-agent/
 ├── src/
 │ └── agent/
@@ -32,7 +32,7 @@ llm-research-agent/
 ├── requirements.txt
 ├── README.md
 └── design_doc.md
-
+```
 ---
 
 ## 🛠️ Setup Instructions
